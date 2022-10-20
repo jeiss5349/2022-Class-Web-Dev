@@ -1,1 +1,2 @@
-# 2022-Class-Web-Dev
+# 2022-fall-web-dev
+### The best class at New Paltz
